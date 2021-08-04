@@ -1,0 +1,4 @@
+export const SET_STATS = "SET_STATS";
+export const SET_IS_LOADING = "SET_IS_LOADING";
+export const SET_UI_STATE = "SET_UI_STATE";
+export const SET_SELEECTED_COUNTRY = "SET_SELEECTED_COUNTRY";
